@@ -1,4 +1,4 @@
-QuickStart
+QuickStar
 ======================
 
 Good tools make system performance tuning quicker, easier and cheaper than if everything is done manually or by experience.
